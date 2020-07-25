@@ -9,7 +9,7 @@ import org.json.JSONObject;
 
 /**
  *
- * @author Farmaku
+ * @author ahza0
  */
 public class Customers {
 

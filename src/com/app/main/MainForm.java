@@ -14,7 +14,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Farmaku
+ * @author ahza0
  */
 public class MainForm extends javax.swing.JFrame {
 
